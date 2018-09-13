@@ -1,0 +1,10 @@
+ToolChainManager/order/0.id=default
+ToolChainManager/order/0.type=org.eclipse.cdt.arduino
+ToolChainManager/order/n=1
+config/Transciever/cdt.launchMode=run
+config/Transciever/cdt.toolChain.id=default
+config/Transciever/cdt.toolChain.type=org.eclipse.cdt.arduino
+config/drone/cdt.launchMode=run
+config/drone/cdt.toolChain.id=default
+config/drone/cdt.toolChain.type=org.eclipse.cdt.arduino
+eclipse.preferences.version=1
